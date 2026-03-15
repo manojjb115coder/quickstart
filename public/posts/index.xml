@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo site</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/manojjb115coder/quickstart/posts/</link>
     <description>Recent content in Posts on My New Hugo site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Mar 2026 14:09:55 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/manojjb115coder/quickstart/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Blog</title>
-      <link>http://localhost:1313/posts/my-learning-experience/</link>
+      <link>http://localhost:1313/manojjb115coder/quickstart/posts/my-learning-experience/</link>
       <pubDate>Wed, 04 Mar 2026 14:09:55 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-learning-experience/</guid>
-      <description>&lt;h2 id=&#34;my-learning-experience&#34;&gt;My Learning Experience&lt;/h2&gt;&#xA;&lt;p&gt;Throughout the first unit of the course, I learned about wikis, Markdown, and the creation of digital knowledge. Before this lab, I have already learned about wikis. Although I have learned about it, I still did not fully comprehend how it actually works. I have never tried Markdown before. At first, I thought that recalling the commands for Markdown would be a little confusing. After trying it several times during the lab, I slowly began to comprehend how it actually works. I learned that Markdown can be used to organize information in a very clear manner.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/manojjb115coder/quickstart/posts/my-learning-experience/</guid>
+      <description>&lt;h2 id=&#34;my-learning-experience&#34;&gt;My Learning Experience&lt;/h2&gt;&#xA;&lt;h2 id=&#34;unit-1-reflection--understanding-what-information-truly-means&#34;&gt;Unit 1 Reflection – Understanding What Information Truly Means&lt;/h2&gt;&#xA;&lt;p&gt;In my introductory class, I initially thought that learning this course would be simple, since it involves studying the basics of information, data, technology, and tools related to information systems. However, after a week of classes, I realised that information is actually a deeper concept. Information looks simple at first, but it becomes complicated when we try to define it clearly or when I try to work with it in practice.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>http://localhost:1313/manojjb115coder/quickstart/posts/my-first-post/</link>
       <pubDate>Wed, 04 Feb 2026 14:43:31 +0530</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/manojjb115coder/quickstart/posts/my-first-post/</guid>
       <description>&lt;h1 id=&#34;welcome-to-my-first-blog&#34;&gt;Welcome to My First Blog&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hello, my name is Manoj Bhajantri. I am currently a student at Azim Premji University (APU), Bangalore, pursuing a B.Sc(Honours) Information Science. I have a strong interest in learning new technologies and developing my academic and practical skills. I am motivated to grow professionally and actively engage in my studies to build a strong foundation for my future career.&lt;/p&gt;</description>
     </item>
   </channel>
