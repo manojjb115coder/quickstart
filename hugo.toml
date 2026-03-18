@@ -1,6 +1,6 @@
 baseURL = 'https://github.com/manojjb115coder/quickstart'
 languageCode = 'en-us'
-title = 'My New Hugo site'
+title = 'Manoj`s Reflections'
 theme = 'ananke'
 [caches]
   [caches.images]
