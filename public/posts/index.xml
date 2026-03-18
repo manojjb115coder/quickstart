@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo site</title>
-    <link>http://localhost:1313/manojjb115coder/quickstart/posts/</link>
+    <link>https://github.com/manojjb115coder/quickstart/posts/</link>
     <description>Recent content in Posts on My New Hugo site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Mar 2026 14:09:55 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/manojjb115coder/quickstart/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Mar 2026 15:50:16 +0530</lastBuildDate>
+    <atom:link href="https://github.com/manojjb115coder/quickstart/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit 2 Reflection</title>
+      <link>https://github.com/manojjb115coder/quickstart/posts/unit2-reflection/</link>
+      <pubDate>Wed, 18 Mar 2026 15:50:16 +0530</pubDate>
+      <guid>https://github.com/manojjb115coder/quickstart/posts/unit2-reflection/</guid>
+      <description>&lt;h2 id=&#34;unit-2-reflection--the-nature-of-information-problems&#34;&gt;Unit 2 Reflection – The Nature of Information Problems&lt;/h2&gt;&#xA;&lt;p&gt;In Unit 2,  learning became more practical and easy as compared to Unit 1. Unit 2 is typically learning how information is actually processed and used. This unit involved more technical and practical concepts. From this unit, I realised that working with information involves many challenges such as understanding the problem clearly, choosing the right representation, and mainly interpreting the results correctly.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Blog</title>
-      <link>http://localhost:1313/manojjb115coder/quickstart/posts/my-learning-experience/</link>
+      <link>https://github.com/manojjb115coder/quickstart/posts/my-learning-experience/</link>
       <pubDate>Wed, 04 Mar 2026 14:09:55 +0530</pubDate>
-      <guid>http://localhost:1313/manojjb115coder/quickstart/posts/my-learning-experience/</guid>
+      <guid>https://github.com/manojjb115coder/quickstart/posts/my-learning-experience/</guid>
       <description>&lt;h2 id=&#34;my-learning-experience&#34;&gt;My Learning Experience&lt;/h2&gt;&#xA;&lt;h2 id=&#34;unit-1-reflection--understanding-what-information-truly-means&#34;&gt;Unit 1 Reflection – Understanding What Information Truly Means&lt;/h2&gt;&#xA;&lt;p&gt;In my introductory class, I initially thought that learning this course would be simple, since it involves studying the basics of information, data, technology, and tools related to information systems. However, after a week of classes, I realised that information is actually a deeper concept. Information looks simple at first, but it becomes complicated when we try to define it clearly or when I try to work with it in practice.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/manojjb115coder/quickstart/posts/my-first-post/</link>
+      <link>https://github.com/manojjb115coder/quickstart/posts/my-first-post/</link>
       <pubDate>Wed, 04 Feb 2026 14:43:31 +0530</pubDate>
-      <guid>http://localhost:1313/manojjb115coder/quickstart/posts/my-first-post/</guid>
+      <guid>https://github.com/manojjb115coder/quickstart/posts/my-first-post/</guid>
       <description>&lt;h1 id=&#34;welcome-to-my-first-blog&#34;&gt;Welcome to My First Blog&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hello, my name is Manoj Bhajantri. I am currently a student at Azim Premji University (APU), Bangalore, pursuing a B.Sc(Honours) Information Science. I have a strong interest in learning new technologies and developing my academic and practical skills. I am motivated to grow professionally and actively engage in my studies to build a strong foundation for my future career.&lt;/p&gt;</description>
     </item>
   </channel>
